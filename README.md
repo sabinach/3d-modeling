@@ -8,3 +8,6 @@ https://sabinachen.com/projects/100daysofcode/day18/index.html
 
 ## FreeCAD for Beginners (DrVax)
 https://www.youtube.com/playlist?list=PLxa9m2nC6N924jFUOYRECQUMm9xl4_jUI
+
+## detective-boys-badge
+https://sabinachen.com/projects/100daysofcode/day20/index.html
