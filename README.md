@@ -8,7 +8,6 @@ https://sabinachen.com/projects/100daysofcode/day18/index.html
 
 ## FreeCAD Beginner Tutorials
 Index Card Holder, Desk Wires Holder, Vase - [Instructions](https://www.youtube.com/playlist?list=PLxa9m2nC6N924jFUOYRECQUMm9xl4_jUI) (DrVax)                
-
 Rook Chess Piece - [Instructions](https://www.youtube.com/watch?v=0UgQzqQXEvk) (Andrew CAD)
 
 ## [TODO] detective-boys-badge
